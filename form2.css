@@ -1,0 +1,35 @@
+
+.c1{
+  height: 580px;
+  width: 50vw;
+}
+
+.c1 div{
+  width: 55vw;
+  height: 30px;
+}
+
+.c1 div span{
+  width: 7%;
+}
+.c1 div input{
+width: 300px;
+}
+.dd{
+  display: flex;
+  
+}
+.la{
+  text-align: end;
+  margin-left: -300px;
+  margin-right: 10px;
+}
+.m{
+  margin-bottom: 14px;
+}
+.sel{
+  width: 300px;
+  padding: 0px 10px;
+  color: rgb(111, 110, 110);
+}
+
